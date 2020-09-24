@@ -1,14 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
+    { "SNO": 1, "Date": "Post 1" ,"Description": "test", "Amount": "111" },
+   { "SNO": 2, "Date": "Post 2" ,"Description": "qwqw", "Amount": "121" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
 }
